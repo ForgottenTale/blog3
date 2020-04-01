@@ -3,12 +3,12 @@ module.exports = {
     title: `Unpacked`,
     author: {
       name: `Abhijith Kannan`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      summary: `undergraduate electrical and electronic engineering student, Microsoft Student Partner 2019-20 who loves Iot and Web development`,
     },
     description: `A starter blog demonstrating what Gatsby can do.`,
     siteUrl: `https://gatsby-starter-blog-demo.netlify.com/`,
     social: {
-      twitter: `kylemathews`,
+      twitter: `abhijit77542829`,
     },
   },
   plugins: [
