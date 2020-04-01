@@ -1,5 +1,5 @@
 ---
-title: How to connect NodeMCU to Azure Iot
+title: How to connect NodeMCU esp8266 to Azure Iot
 date: "2020-03-29T21:46:37.121Z"
 ---
 
